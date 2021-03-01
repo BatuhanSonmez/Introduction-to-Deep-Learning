@@ -18,6 +18,3 @@ Some python libraries
 Some python libraries
 Some python libraries
 ```
----
-
-

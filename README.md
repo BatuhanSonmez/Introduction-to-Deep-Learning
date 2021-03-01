@@ -1,7 +1,7 @@
 # Global AI Hub Repository
 ![](img/logo.png)
 
-**Course Date:** 01.03.2021
+**Course Date:** 01.03.2021 - 05.03.2021
 
 **Name:** Batuhan
 

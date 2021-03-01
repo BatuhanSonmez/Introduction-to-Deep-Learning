@@ -7,7 +7,7 @@
 
 **Surname:** Sönmez
 
-**Email:** bysonmez.tr@gmail.com  
+**E-mail:** bysonmez.tr@gmail.com  
 
 ## Project Name
 Description of your project.
